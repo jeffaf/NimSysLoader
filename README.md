@@ -31,7 +31,7 @@ nim c -d:release NimSysLoader.nim
 ## Dependencies
 - Nim
 - Winim module (for Windows type definitions and helper functions)
-- SysWhispers2 (integrated via syscalls.nim)
+- SysWhispers2 from NimlineWhispers2(integrated via syscalls.nim)
 
 ## Credits
 - [SysWhispers2](https://github.com/jthuraisamy/SysWhispers2)
