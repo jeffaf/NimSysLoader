@@ -17,7 +17,7 @@ nimble install winim
 
 3. Compile:
 ```powershell
-nim c -d:release nim_sys_exec.nim
+nim c -d:release NimSysLoader.nim
 ```
 
 ## Features
